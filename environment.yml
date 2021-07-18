@@ -1,0 +1,16 @@
+name: bogaziciAI
+
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - numpy
+    - matplotlib
+    - pandas
+    - spyder
+    - scikit-learn
+    - scikit-image
+    - scipy
+    - jupyterlab
+    - torch
+
